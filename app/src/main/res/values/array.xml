@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="profile">
+        <item>Seleccione Perfil</item>
+        <item>Administrador</item>
+        <item>Usuario</item>
+    </array>
+
+    <array name="pais">
+        <item>Seleccione Pais</item>
+        <item>Perú</item>
+        <item>Chile</item>
+    </array>
+
+    <array name="dep">
+        <item>Seleccione Departamento</item>
+        <item>Lima</item>
+        <item>Santiago</item>
+    </array>
+</resources>
